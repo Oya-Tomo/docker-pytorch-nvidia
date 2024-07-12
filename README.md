@@ -1,5 +1,10 @@
 # docker-pytorch-nvidia ML template
 
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  width="64px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  width="64px"/>
+</div>
+
 ## prerequisites
 
 - install docker engine
